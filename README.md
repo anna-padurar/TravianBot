@@ -2,7 +2,7 @@
 
 [ ![TravianBot](https://app.codeship.com/projects/9eb07ad0-5d81-0135-77a0-1eebb642e56d/status?branch=master)](https://app.codeship.com/projects/238207)
 
-## HOW TO BUILD
+## HOW TO BUILD THIS
 ```groovy 
 gradle compileJava test
 ```
